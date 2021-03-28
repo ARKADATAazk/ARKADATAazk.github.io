@@ -142,7 +142,16 @@
 <script src="/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/uikit-icons-vision.min.js?ver=2.4.6"></script>
 <script src="/wp-content/themes/yootheme/js/theme.js?ver=2.4.6"></script>
 <script>var $theme = {};</script>
-    </head>
+		<style type="text/css" id="wp-custom-css">.page-id-2 #header, .page-id-2 #footer 
+{
+display: none;
+}
+
+.page-id-2 .azkfootersection { display: none }
+.page-id-2 .tm-header     { display: none }
+.page-id-2 .tm-footer { display: none }
+.page-id-2 .tm-toolbar    { display: none }</style>
+		    </head>
     <body class="page-template-default page page-id-7 ">
         
         
@@ -268,7 +277,7 @@
             
             
                 
-<div class="uk-position-relative uk-position-z-index uk-margin" style="height: 300px" uk-map>    <script type="application/json">{"markers":[{"lat":48.8409,"lng":2.3881,"title":""}],"type":"roadmap","zoom":"10","controls":false,"zooming":true,"dragging":true,"min_zoom":0,"max_zoom":"13","center":{"lat":48.8409,"lng":2.3881},"lazyload":false,"baseUrl":"https:\/\/cdn.jsdelivr.net\/npm\/leaflet@1.7.1\/dist"}</script>                    <template>
+<div class="uk-position-relative uk-position-z-index uk-margin" style="height: 300px" uk-map>    <script type="application/json">{"markers":[{"lat":48.8409,"lng":2.3881,"title":""}],"type":"roadmap","zoom":"10","controls":false,"zooming":true,"dragging":true,"min_zoom":0,"max_zoom":"13","center":{"lat":48.8409,"lng":2.3881},"lazyload":true,"baseUrl":"https:\/\/cdn.jsdelivr.net\/npm\/leaflet@1.7.1\/dist"}</script>                    <template>
                     </template>
             </div>
 <hr class="uk-divider-vertical">
@@ -377,7 +386,7 @@
         
             
             <!-- Builder #footer -->
-<div class="uk-section-secondary uk-section">
+<div id="azkfootersection" class="uk-section-secondary uk-section">
     
         
         
