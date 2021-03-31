@@ -19,3 +19,13 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 </channel>
 </rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 11/12 objects using disk
+Page Caching using disk (Page is feed) 
+Lazy Loading (feed)
+
+Served from: localhost @ 2021-03-31 07:50:03 by W3 Total Cache
+-->
