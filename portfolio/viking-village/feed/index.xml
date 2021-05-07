@@ -11,12 +11,12 @@
 	<atom:link href="/portfolio/viking-village/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Portfolio</description>
-	<lastBuildDate>Sun, 04 Apr 2021 16:57:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 May 2021 04:03:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
 </channel>
 </rss>
 
@@ -25,5 +25,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk (Page is feed) 
 
-Served from: localhost @ 2021-04-05 07:37:03 by W3 Total Cache
+Served from: localhost @ 2021-05-07 06:05:28 by W3 Total Cache
 -->
