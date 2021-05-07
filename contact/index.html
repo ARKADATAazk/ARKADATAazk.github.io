@@ -18,11 +18,9 @@
 	<meta property="og:description" content="Student in audio integration, music composition, and sound design for videogames and linear media. Looking forward to work in the industry.">
 	<meta property="og:url" content="/contact/">
 	<meta property="og:site_name" content="ARKADATA">
-	<meta property="article:modified_time" content="2021-03-29T06:48:10+00:00">
+	<meta property="article:modified_time" content="2021-05-07T04:34:30+00:00">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@ArKaDaTaEditing">
-	<meta name="twitter:label1" content="Est. reading time">
-	<meta name="twitter:data1" content="1 minute">
 	<script type="application/ld+json" class="yoast-schema-graph">{
 	    "@context": "https://schema.org",
 	    "@graph": [
@@ -78,7 +76,7 @@
 	                "@id": "/#website"
 	            },
 	            "datePublished": "2021-03-24T02:32:11+00:00",
-	            "dateModified": "2021-03-29T06:48:10+00:00",
+	            "dateModified": "2021-05-07T04:34:30+00:00",
 	            "description": "Student in audio integration, music composition, and sound design for videogames and linear media. Looking forward to work in the industry.",
 	            "breadcrumb": {
 	                "@id": "/contact/#breadcrumb"
@@ -298,6 +296,78 @@
             
             
             <!-- Builder #page -->
+<div class="uk-section-default uk-light uk-position-relative">
+        <div style="background-image: url('/wp-admin/admin-ajax.php?p=theme%2Fimage&amp;action=kernel&amp;src=WyJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wNVwvMTYtMTY0Nzk4X25lcnYtbWVjaC1oZC13YWxscGFwZXItd2FsbHBhcGVyZngtc3JjLW1lY2gtd2FsbHBhcGVycy1zY2FsZWQuanBnIixbWyJkb1Jlc2l6ZSIsWzI1NjAsMTYzMSwyNTYwLDE2MzFdXV1d&amp;hash=417a98208ecc6fd40693e898a6fbc326'); background-color: rgb(0, 0, 0);" class="uk-background-norepeat uk-background-cover uk-background-center-center uk-section">    
+        
+                <div class="uk-position-cover" style="background-color: rgba(0, 0, 0, 0.8);"></div>        
+                <div class="uk-position-relative">        
+            
+                                <div class="uk-container uk-position-relative">                
+                    
+                    <div class="tm-grid-expand uk-grid-row-small uk-child-width-1-1 uk-grid-margin-small" uk-grid>
+<div>
+    
+        
+            
+            
+                
+<h1 class="uk-heading-small uk-margin-remove-top uk-margin-remove-bottom uk-text-center">        Contact Me    </h1>
+<div class="uk-margin-remove-top uk-text-center">        pierre.daunis@arkadata.com    </div>
+            
+        
+    
+</div>
+</div>
+                                </div>
+                
+            
+                    <div class="tm-section-title uk-position-top-left uk-position-medium uk-margin-remove-vertical uk-visible@xl">                <div class="tm-rotate-180">CONTACT.ME</div>
+            </div>
+        </div>
+        
+        </div>
+    
+</div>
+
+<div class="uk-section-default uk-section uk-section-small">
+    
+        
+        
+        
+            
+                
+                    
+                    <div class="tm-grid-expand uk-child-width-1-1 uk-grid-margin" uk-grid>
+<div>
+    
+        
+            
+            
+                
+<div class="uk-position-relative uk-position-z-index uk-margin" style="height: 200px" uk-map>    <script type="application/json">{"markers":[{"lat":48.8409,"lng":2.3881,"title":"Loc."}],"type":"roadmap","zoom":10,"controls":true,"zooming":false,"dragging":false,"min_zoom":0,"max_zoom":18,"center":{"lat":48.8409,"lng":2.3881},"lazyload":false,"baseUrl":"https:\/\/cdn.jsdelivr.net\/npm\/leaflet@1.7.1\/dist"}</script>                    <template>
+            
+<div class="el-item uk-text-default uk-font-default uk-margin-remove-first-child">
+    
+    
+
+<h3 class="el-title uk-margin-top uk-margin-remove-bottom">        Loc.    </h3>
+
+
+
+
+</div>        </template>
+            </div>
+            
+        
+    
+</div>
+</div>
+                
+            
+        
+    
+</div>
+
 <div class="uk-section-default uk-section">
     
         
@@ -313,55 +383,12 @@
             
             
                 
-<pre><code class="el-content">public class MSSphereRTPC : MonoBehaviour
-{
-
-    public GameObject Player;
-    [Header(&quot;Centre de la Sphère = 0&quot;)]
-    [Header(&quot;Bords de la Sphère  = 100&quot;)]
-    [SerializeField] [ParamRef] public string insideRTPC;
-    public bool DebugP = false;
-
-    [SerializeField] private float paramMaxRange;
-
-
-    private void Update()
-    {
-
-        // compute the % value
-        float dist = Vector3.Distance(Player.transform.position, transform.position);
-        float radius = GetComponent&lt;CircleCollider2D&gt;().radius;
-
-        if (dist &gt; radius)
-        {
-            //RuntimeManager.StudioSystem.setParameterByName(insideRTPC, 0);
-            return;
-        }
-            
-        float p = (dist / radius);
-        float pInv = (-p + 1) * 2;
-
-        if (pInv &lt; paramMaxRange)
-        {
-            RuntimeManager.StudioSystem.setParameterByName(insideRTPC, pInv);
-        }
-        //Debug.Log(p);
-        //RuntimeManager.StudioSystem.setParameterByName(insideRTPC, Mathf.Abs(velocity.x + velocity.y));
-        if (DebugP == true)
-        {
-            Debug.Log(pInv);
-        }
-    }
-}
-</code>
-</pre>
-
 <div class="uk-margin">
     
     
         
         
-<a class="el-content uk-width-1-1 uk-button uk-button-primary uk-button-large" title="CONTACT ME PLEASE I BEG YOU I NEED TO EAT" href="mailto:pierre.daunis@arkadata.com">
+<a class="el-content uk-width-1-1 uk-button uk-button-secondary uk-button-large" href="mailto:pierre.daunis@arkadata.com">
 
         <span uk-icon="mail"></span>
     
@@ -377,33 +404,22 @@
     
 </div>
 
-            
-        
-    
+<div class="uk-margin uk-text-center">    <div class="uk-child-width-auto uk-flex-center" uk-grid>
+            <div>
+<a class="el-link uk-icon-button" rel="noreferrer" href="https://www.linkedin.com/in/pierre-daunis-azk" uk-icon="icon: linkedin;"></a>
 </div>
+            <div>
+<a class="el-link uk-icon-button" rel="noreferrer" href="https://soundcloud.com/arkadatazk" uk-icon="icon: soundcloud;"></a>
 </div>
-                                </div>
-                
-            
-        
-    
+            <div>
+<a class="el-link uk-icon-button" rel="noreferrer" href="https://www.youtube.com/channel/UCX146FImYLp--OvEjwRF3zg" uk-icon="icon: youtube;"></a>
 </div>
-
-<div class="uk-section-default uk-section">
+            <div>
+<a class="el-link uk-icon-button" rel="noreferrer" href="https://twitter.com/ArKaDaTaEditing" uk-icon="icon: twitter;"></a>
+</div>
     
-        
-        
-        
-            
-                                <div class="uk-container">                
-                    
-                    <div class="tm-grid-expand uk-child-width-1-1 uk-grid-margin" uk-grid>
-<div>
-    
-        
-            
-            
-                
+    </div>
+</div>
             
         
     
@@ -418,63 +434,12 @@
         
             
             <!-- Builder #footer -->
-<div id="azkfootersection" class="azkfootersection uk-section-secondary uk-section uk-section-xsmall">
-    
-        
-        
-        
-            
-                                <div class="uk-container uk-container-large">                
-                    
-                    <div class="tm-grid-expand uk-grid-row-collapse" uk-grid>
-<div class="uk-width-1-3@m">
-    
-        
-            
-            
-                
-            
-        
-    
-</div>
-
-<div class="uk-width-1-3@m">
-    
-        
-            
-            
-                
-<h1 class="uk-h6 uk-font-primary uk-position-relative uk-text-center" style="top: 2px;">        Copyright © 2021 - Pierre Daunis    </h1>
-            
-        
-    
-</div>
-
-<div class="uk-width-1-3@m">
-    
-        
-            
-            
-                
-            
-        
-    
-</div>
-</div>
-                                </div>
-                
-            
-        
-    
-</div>
-
         </div>
 
         
-        <style>@import '/wp-content/themes/yootheme/vendor/yootheme/theme-highlight/assets/styles/monokai.css?ver=2.4.6';</style>
-<script>document.addEventListener("DOMContentLoaded", function() {hljs.initHighlightingOnLoad()});</script>
-<script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=5.7.1" id="wp-embed-js"></script>
-<script type="text/javascript" src="/wp-content/themes/yootheme/vendor/yootheme/theme-highlight/assets/highlight.js?ver=2.4.6" id="script:highlight-js"></script>
+        <script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=5.7.1" id="wp-embed-js"></script>
+<script type="text/javascript" src="http://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js?ver=2.4.6" id="script:leaflet-js"></script>
+<script type="text/javascript" src="/wp-content/themes/yootheme/vendor/yootheme/builder/elements/map/app/map.min.js?ver=2.4.6" id="script:builder-map-js"></script>
     </body>
 
 
@@ -483,6 +448,6 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk 
 
-Served from: localhost @ 2021-05-07 06:05:20 by W3 Total Cache
+Served from: localhost @ 2021-05-07 09:03:26 by W3 Total Cache
 -->
 </html>
