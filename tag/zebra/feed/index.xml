@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>ARKADATA</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Zebra &#8211; ARKADATA</title>
+	<atom:link href="/tag/zebra/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Portfolio</description>
-	<lastBuildDate>Sat, 07 Aug 2021 15:33:09 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Jul 2021 21:08:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -175,99 +175,6 @@
 		
 		
 			</item>
-		<item>
-		<title>Orch Reverse Engineering → Kanascene</title>
-		<link>/2021/04/04/kanascene/</link>
-		
-		<dc:creator><![CDATA[ARKADATA]]></dc:creator>
-		<pubDate>Sun, 04 Apr 2021 17:23:28 +0000</pubDate>
-				<category><![CDATA[Audio Production]]></category>
-		<category><![CDATA[Orchestral]]></category>
-		<category><![CDATA[Reaper]]></category>
-		<guid isPermaLink="false">/?p=63</guid>
-
-					<description><![CDATA[<p>I’m fascinated by simple pieces that only use a string ensemble. No synths, no brass, no winds, no percussions.It’s a great exercise to reproduce such arrangements, especially when considering how much work can be put into production. Trying to reproduce a Japanese Orchestra with Cinematic Studio Strings. Here is the original soundtrack from Sawano Hiroyuki. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2021/04/04/kanascene/">Orch Reverse Engineering → Kanascene</a> appeared first on <a rel="nofollow" href="">ARKADATA</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-<div>
-<p><span>I’m fascinated by simple pieces that only use a string ensemble. No synths, no brass, no winds, no percussions.</span><br /><span>It’s a great exercise to reproduce such arrangements, especially when considering how much work can be put into production.</span></p>
-</div>
-</div>
-<h3>Trying to reproduce a Japanese Orchestra with Cinematic Studio Strings.</h3>
-<div>
-<p>Here is the original soundtrack from Sawano Hiroyuki. It&#8217;s a 3min54 strings piece, with a classical feel.</p>
-</div>
-<div>
-<p>    <iframe loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044417112%3Fsecret_token%3Ds-upxte4AHfT7&#038;color=%23171717&#038;auto_play=false&#038;hide_related=false&#038;show_comments=true&#038;show_user=true&#038;show_reposts=false&#038;show_teaser=true"></iframe></p>
-<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/arkadatazk" title="ARKADATA" target="_blank" style="color: #cccccc; text-decoration: none;">ARKADATA</a> · <a href="https://soundcloud.com/arkadatazk/kanascene/s-upxte4AHfT7" title="kanascene" target="_blank" style="color: #cccccc; text-decoration: none;">kanascene</a></div>
-</div>
-<div>
-<p>The first step to reproduce the piece was to get the main instruments and timing right. Starting with the violin as our leading voice.</p>
-</div>
-<div>
-<p>    <iframe loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044422080%3Fsecret_token%3Ds-SSHyY4t9BkQ&#038;color=%23171717&#038;auto_play=false&#038;hide_related=false&#038;show_comments=true&#038;show_user=true&#038;show_reposts=false&#038;show_teaser=true"></iframe></p>
-<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/arkadatazk" title="ARKADATA" target="_blank" style="color: #cccccc; text-decoration: none;">ARKADATA</a> · <a href="https://soundcloud.com/arkadatazk/kanascene-azkver2/s-SSHyY4t9BkQ" title="# Kanascene Azkver2" target="_blank" style="color: #cccccc; text-decoration: none;"># Kanascene Azkver2</a></div>
-</div>
-<div>
-<p>I tried to get as close as possible with Cinematic Studio Strings, but the ensemble is a bit bigger than what was used on Aldnoah Zero&#8217;s soundtrack. Which used a Japanese studio orchestra (Muroya Strings), which is probably half the size of what I&#8217;m currently using.</p>
-<p>A way I found to make up for that is to use solo strings in addition to the ensemble. It gives more definition to the sound.</p>
-</div>
-<div>
-<p>    <iframe loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044422224%3Fsecret_token%3Ds-jDImmlje2OY&#038;color=%23171717&#038;auto_play=false&#038;hide_related=false&#038;show_comments=true&#038;show_user=true&#038;show_reposts=false&#038;show_teaser=true"></iframe></p>
-<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/arkadatazk" title="ARKADATA" target="_blank" style="color: #cccccc; text-decoration: none;">ARKADATA</a> · <a href="https://soundcloud.com/arkadatazk/kanascene-azkver10/s-jDImmlje2OY" title="# Kanascene Azkver10" target="_blank" style="color: #cccccc; text-decoration: none;"># Kanascene Azkver10</a></div>
-</div>
-<div>
-<p>It&#8217;s getting there but it still feels a bit stiff.</p>
-<p>Some more work on the Cello to get all the notes and timing right. </p>
-<p>I used a convolution reverb alongside an algorithmic one to get the sound I wanted. Which consists of an MCO5 IR (Studio Room) with differents mics placements and some FabFilter Pro-R.</p>
-</div>
-<h1>
-<h3>Here&#8217;s the final result:</h3>
-</h1>
-<div>
-<p>    <iframe loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044416836%3Fsecret_token%3Ds-XSlt0Hcu8nq&#038;color=%23171717&#038;auto_play=false&#038;hide_related=false&#038;show_comments=true&#038;show_user=true&#038;show_reposts=false&#038;show_teaser=true"></iframe></p>
-<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/arkadatazk" title="ARKADATA" target="_blank" style="color: #cccccc; text-decoration: none;">ARKADATA</a> · <a href="https://soundcloud.com/arkadatazk/kanascene-azkver/s-XSlt0Hcu8nq" title="# Kanascene &lt;azk.ver&gt;" target="_blank" style="color: #cccccc; text-decoration: none;"># Kanascene &lt;azk.ver&gt;</a></div>
-</div>
-<div>
-<p>The colors are quite different from the original, but I feel like the production value is quite there. <strong>It sounds.</strong> <br />Slightly more powerful, less intimate, probably due to the libraries being quite bigger in size than a traditional Japanese orchestra.</p>
-</div>
-<p><span id="more-63"></span><br />
-<!-- {"name":"BlogPost Full","type":"layout","children":[{"type":"section","props":{"style":"muted","width":"default","vertical_align":"middle","title_position":"top-left","title_rotation":"left","title_breakpoint":"xl","image_position":"center-center","image":"","media_background":"rgb(0, 0, 0)","media_overlay":"rgba(0, 0, 0, 0.8)","text_color":"light","padding_remove_top":false,"padding":"small","header_transparent_noplaceholder":false,"overlap":false,"preserve_color":false},"children":[{"type":"row","children":[{"type":"column","props":{"image_position":"center-center","media_overlay_gradient":""},"children":[{"type":"headline","props":{"title_element":"h1","text_align":"center","margin_remove_top":true,"margin_remove_bottom":true,"title_style":"h1"},"source":{"query":{"name":"posts.singlePost"},"props":{"content":{"filters":{"search":""},"name":"title"}}}},{"type":"headline","props":{"title_element":"div","margin_remove_top":true,"margin_remove_bottom":false,"text_align":"center","title_font_family":"primary"},"source":{"query":{"name":"posts.singlePost"},"props":{"content":{"filters":{"search":"","limit":236},"name":"excerpt"}}}}]}],"props":{"row_gap":"small"}}],"modified":"2021-07-24T05:37:22.308Z","name":"AZK Post Header","source":{"query":{"name":"posts.singlePost"},"props":{"title":{"filters":{"search":"","date":"m.Y"},"name":"date"}}}},{"type":"section","props":{"style":"default","width":"large","vertical_align":"middle","title_position":"top-left","title_rotation":"left","title_breakpoint":"xl","image_position":"center-center","padding_remove_top":false,"padding_remove_bottom":true,"padding":"xsmall","title":""},"children":[{"type":"row","children":[{"type":"column","props":{"image_position":"center-center","media_overlay_gradient":""},"children":[{"type":"headline","props":{"title_element":"h6","margin_remove_top":true,"margin_remove_bottom":true,"text_align":"left","title_style":"h6","title_decoration":"divider"},"source":{"query":{"name":"posts.singlePost"},"props":{"content":{"filters":{"search":""},"arguments":{"format":"list","separator":" | ","link_style":"link-text","show_publish_date":true,"show_author":true,"show_comments":false,"show_taxonomy":"category","date_format":""},"name":"metaString"}}}}]}]}],"name":"AZK Post Meta"},{"type":"section","props":{"style":"default","width":"large","vertical_align":"middle","title_position":"top-left","title_rotation":"left","title_breakpoint":"xl","image_position":"center-center","padding_remove_top":false,"padding":"xsmall","padding_remove_bottom":true},"children":[{"type":"row","children":[{"type":"column","props":{"image_position":"center-center","media_overlay_gradient":""},"children":[{"type":"panel","props":{"link_text":"Read more","title_hover_style":"reset","title_element":"h3","title_align":"top","title_grid_width":"1-2","title_grid_breakpoint":"m","meta_style":"meta","meta_align":"below-title","meta_element":"div","content_column_breakpoint":"m","icon_width":80,"image_align":"top","image_grid_width":"1-2","image_grid_breakpoint":"m","image_svg_color":"emphasis","link_style":"default","margin":"default","content":"
-
-<p><span>I\u2019m fascinated by simple pieces that only use a string ensemble. No synths, no brass, no winds, no percussions.<\/span><br \/><span>It\u2019s a great exercise to reproduce such arrangements, especially when considering how much work can be put into production.<\/span><\/p>","panel_style":"card-secondary","panel_size":"small","content_align":false,"meta":"","image":"","panel_card_image":true,"content_margin":"small"},"modified":"2021-08-07T15:19:27.246Z","name":"Blog Panel"},{"type":"headline","props":{"title_element":"h3","content":"Trying to reproduce a Japanese Orchestra with Cinematic Studio Strings.","margin_remove_top":true}},{"type":"text","props":{"margin":"default","column_breakpoint":"m","content":"
-
-<p>Here is the original soundtrack from Sawano Hiroyuki. It's a 3min54 strings piece, with a classical feel.<\/p>"}},{"type":"html","props":{"content":"<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/1044417112%3Fsecret_token%3Ds-upxte4AHfT7&color=%23171717&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"><\/iframe>
-
-<div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/arkadatazk\" title=\"ARKADATA\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ARKADATA<\/a> \u00b7 <a href=\"https:\/\/soundcloud.com\/arkadatazk\/kanascene\/s-upxte4AHfT7\" title=\"kanascene\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">kanascene<\/a><\/div>"}},{"type":"text","props":{"margin":"default","column_breakpoint":"m","content":"
-
-<p>The first step to reproduce the piece was to get the main instruments and timing right. Starting with the violin as our leading voice.<\/p>"}},{"type":"html","props":{"content":"<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/1044422080%3Fsecret_token%3Ds-SSHyY4t9BkQ&color=%23171717&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"><\/iframe>
-
-<div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/arkadatazk\" title=\"ARKADATA\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ARKADATA<\/a> \u00b7 <a href=\"https:\/\/soundcloud.com\/arkadatazk\/kanascene-azkver2\/s-SSHyY4t9BkQ\" title=\"# Kanascene Azkver2\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\"># Kanascene Azkver2<\/a><\/div>"}},{"type":"text","props":{"margin":"default","column_breakpoint":"m","content":"
-
-<p>I tried to get as close as possible with Cinematic Studio Strings, but the ensemble is a bit bigger than what was used on Aldnoah Zero's soundtrack. Which used a Japanese studio orchestra (Muroya Strings), which is probably half the size of what I'm currently using.<\/p>\n
-
-<p>A way I found to make up for that is to use solo strings in addition to the ensemble. It gives more definition to the sound.<\/p>"}},{"type":"html","props":{"content":"<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/1044422224%3Fsecret_token%3Ds-jDImmlje2OY&color=%23171717&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"><\/iframe>
-
-<div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/arkadatazk\" title=\"ARKADATA\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ARKADATA<\/a> \u00b7 <a href=\"https:\/\/soundcloud.com\/arkadatazk\/kanascene-azkver10\/s-jDImmlje2OY\" title=\"# Kanascene Azkver10\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\"># Kanascene Azkver10<\/a><\/div>"}},{"type":"text","props":{"margin":"default","column_breakpoint":"m","content":"
-
-<p>It's getting there but it still feels a bit stiff.<\/p>\n
-
-<p>Some more work on the Cello to get all the notes and timing right.\u00a0<\/p>\n
-
-<p>I used a convolution reverb alongside an algorithmic one to get the sound I wanted. Which consists of an MCO5 IR (Studio Room) with differents mics placements and some FabFilter Pro-R.<\/p>"}}]}]}],"modified":"2021-08-07T15:14:10.423Z","name":"KANAscene sec1"},{"type":"section","props":{"style":"default","width":"large","vertical_align":"middle","title_position":"top-left","title_rotation":"left","title_breakpoint":"xl","image_position":"center-center","padding_remove_top":true},"children":[{"type":"row","children":[{"type":"column","props":{"image_position":"center-center","media_overlay_gradient":""},"children":[{"type":"headline","props":{"title_element":"h1","content":"
-
-<h3>Here's the final result:<\/h3>","margin_remove_top":true}},{"type":"html","props":{"content":"<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/1044416836%3Fsecret_token%3Ds-XSlt0Hcu8nq&color=%23171717&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"><\/iframe>
-
-<div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/arkadatazk\" title=\"ARKADATA\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ARKADATA<\/a> \u00b7 <a href=\"https:\/\/soundcloud.com\/arkadatazk\/kanascene-azkver\/s-XSlt0Hcu8nq\" title=\"# Kanascene &lt;azk.ver&gt;\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\"># Kanascene &lt;azk.ver&gt;<\/a><\/div>"}},{"type":"text","props":{"margin":"default","column_breakpoint":"m","content":"
-
-<p>The colors are quite different from the original, but I feel like the production value is quite there. <strong>It sounds.<\/strong> <br \/>Slightly more powerful, less intimate, probably due to the libraries being quite bigger in size than a traditional Japanese orchestra.<\/p>"}}]}]}],"modified":"2021-08-07T15:14:29.067Z","name":"KANAscene sec2"}],"version":"2.4.6"} --></p>
-<p>The post <a rel="nofollow" href="/2021/04/04/kanascene/">Orch Reverse Engineering → Kanascene</a> appeared first on <a rel="nofollow" href="">ARKADATA</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -276,5 +183,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk (Page is feed) 
 
-Served from: localhost @ 2021-08-07 17:46:34 by W3 Total Cache
+Served from: localhost @ 2021-08-07 17:46:46 by W3 Total Cache
 -->

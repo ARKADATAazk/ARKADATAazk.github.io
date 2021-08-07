@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>ARKADATA</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Audio Production &#8211; ARKADATA</title>
+	<atom:link href="/category/audioproduction/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Portfolio</description>
 	<lastBuildDate>Sat, 07 Aug 2021 15:33:09 +0000</lastBuildDate>
@@ -276,5 +276,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk (Page is feed) 
 
-Served from: localhost @ 2021-08-07 17:46:34 by W3 Total Cache
+Served from: localhost @ 2021-08-07 17:46:48 by W3 Total Cache
 -->
