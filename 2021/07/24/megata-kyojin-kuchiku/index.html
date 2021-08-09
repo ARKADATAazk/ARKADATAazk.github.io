@@ -8,7 +8,7 @@
         <link rel="apple-touch-icon" href="/wp-content/uploads/2021/03/azk_favicon_blue.jpg">
                 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
-	<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v16.8 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>ARKADATA / Pierre Daunis - Composer &amp; Sound Designer - Official Site</title>
 	<meta name="description" content="Student in audio integration, music composition, and sound design for videogames and linear media. Looking forward to work in the industry.">
 	<link rel="canonical" href="/2021/07/24/megata-kyojin-kuchiku/">
@@ -43,7 +43,10 @@
 	            "potentialAction": [
 	                {
 	                    "@type": "SearchAction",
-	                    "target": "/?s={search_term_string}",
+	                    "target": {
+	                        "@type": "EntryPoint",
+	                        "urlTemplate": "/?s={search_term_string}"
+	                    },
 	                    "query-input": "required name=search_term_string"
 	                }
 	            ],
@@ -53,7 +56,8 @@
 	            "@type": "ImageObject",
 	            "@id": "/2021/07/24/megata-kyojin-kuchiku/#primaryimage",
 	            "inLanguage": "en-US",
-	            "url": "https://i.imgur.com/WN9zUeL.png"
+	            "url": "https://i.imgur.com/WN9zUeL.png",
+	            "contentUrl": "https://i.imgur.com/WN9zUeL.png"
 	        },
 	        {
 	            "@type": "WebPage",
@@ -89,22 +93,13 @@
 	                {
 	                    "@type": "ListItem",
 	                    "position": 1,
-	                    "item": {
-	                        "@type": "WebPage",
-	                        "@id": "/",
-	                        "url": "/",
-	                        "name": "Home"
-	                    }
+	                    "name": "Home",
+	                    "item": "/"
 	                },
 	                {
 	                    "@type": "ListItem",
 	                    "position": 2,
-	                    "item": {
-	                        "@type": "WebPage",
-	                        "@id": "/2021/07/24/megata-kyojin-kuchiku/",
-	                        "url": "/2021/07/24/megata-kyojin-kuchiku/",
-	                        "name": "Synth Reverse Engineering → Megata Kyojin Kuchiku"
-	                    }
+	                    "name": "Synth Reverse Engineering → Megata Kyojin Kuchiku"
 	                }
 	            ]
 	        },
@@ -123,14 +118,23 @@
 	            "mainEntityOfPage": {
 	                "@id": "/2021/07/24/megata-kyojin-kuchiku/#webpage"
 	            },
+	            "wordCount": 504,
 	            "publisher": {
 	                "@id": "/#/schema/person/080f80a25cfa51a47ea01116828b4097"
 	            },
 	            "image": {
 	                "@id": "/2021/07/24/megata-kyojin-kuchiku/#primaryimage"
 	            },
-	            "keywords": "Filters,Sawano Hiroyuki,u-He,Zebra",
-	            "articleSection": "Audio Production",
+	            "thumbnailUrl": "https://i.imgur.com/WN9zUeL.png",
+	            "keywords": [
+	                "Filters",
+	                "Sawano Hiroyuki",
+	                "u-He",
+	                "Zebra"
+	            ],
+	            "articleSection": [
+	                "Audio Production"
+	            ],
 	            "inLanguage": "en-US"
 	        },
 	        {
@@ -144,7 +148,8 @@
 	                "@type": "ImageObject",
 	                "@id": "/#personlogo",
 	                "inLanguage": "en-US",
-	                "url": "",
+	                "url": "http://1.gravatar.com/avatar/1888cd22b741ac6b0aa49a52ddf09b30?s=96&d=mm&r=g",
+	                "contentUrl": "http://1.gravatar.com/avatar/1888cd22b741ac6b0aa49a52ddf09b30?s=96&d=mm&r=g",
 	                "caption": "ARKADATA"
 	            },
 	            "logo": {
@@ -484,7 +489,7 @@
     </div>
     <div class="tm-popover-items uk-margin uk-hidden@s">
 
-        <ul id="js-483" class="uk-switcher">                        <li>
+        <ul id="js-f71" class="uk-switcher">                        <li>
 <div class="el-item uk-card uk-card-default uk-card-small uk-card-body uk-margin-remove-first-child">
     
             
@@ -510,7 +515,7 @@
 </li>
                     </ul>
 
-        <ul class="uk-dotnav uk-flex-center uk-margin" uk-switcher="connect: #js-483; animation: uk-animation-fade;">                        <li><a href="#"></a></li>
+        <ul class="uk-dotnav uk-flex-center uk-margin" uk-switcher="connect: #js-f71; animation: uk-animation-fade;">                        <li><a href="#"></a></li>
                         <li><a href="#"></a></li>
                     </ul>
 
@@ -541,7 +546,7 @@
     </div>
     <div class="tm-popover-items uk-margin uk-hidden@s">
 
-        <ul id="js-75b" class="uk-switcher">                        <li>
+        <ul id="js-e5a" class="uk-switcher">                        <li>
 <div class="el-item uk-card uk-card-default uk-card-small uk-card-body uk-margin-remove-first-child">
     
             
@@ -555,7 +560,7 @@
 </li>
                     </ul>
 
-        <ul class="uk-dotnav uk-flex-center uk-margin" uk-switcher="connect: #js-75b; animation: uk-animation-fade;">                        <li><a href="#"></a></li>
+        <ul class="uk-dotnav uk-flex-center uk-margin" uk-switcher="connect: #js-e5a; animation: uk-animation-fade;">                        <li><a href="#"></a></li>
                     </ul>
 
     </div>

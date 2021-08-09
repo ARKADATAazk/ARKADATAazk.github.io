@@ -8,7 +8,7 @@
         <link rel="apple-touch-icon" href="/wp-content/uploads/2021/03/azk_favicon_blue.jpg">
                 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
-	<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v16.8 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>ARKADATA / Pierre Daunis - Composer &amp; Sound Designer - Official Site</title>
 	<meta name="description" content="Student in audio integration, music composition, and sound design for videogames and linear media. Looking forward to work in the industry.">
 	<link rel="canonical" href="/">
@@ -38,7 +38,8 @@
 	                "@type": "ImageObject",
 	                "@id": "/#personlogo",
 	                "inLanguage": "en-US",
-	                "url": "",
+	                "url": "http://1.gravatar.com/avatar/1888cd22b741ac6b0aa49a52ddf09b30?s=96&d=mm&r=g",
+	                "contentUrl": "http://1.gravatar.com/avatar/1888cd22b741ac6b0aa49a52ddf09b30?s=96&d=mm&r=g",
 	                "caption": "ARKADATA"
 	            },
 	            "logo": {
@@ -64,7 +65,10 @@
 	            "potentialAction": [
 	                {
 	                    "@type": "SearchAction",
-	                    "target": "/?s={search_term_string}",
+	                    "target": {
+	                        "@type": "EntryPoint",
+	                        "urlTemplate": "/?s={search_term_string}"
+	                    },
 	                    "query-input": "required name=search_term_string"
 	                }
 	            ],
@@ -74,7 +78,8 @@
 	            "@type": "ImageObject",
 	            "@id": "/#primaryimage",
 	            "inLanguage": "en-US",
-	            "url": "/wordpress/wp-content/uploads/2021/05/azk_portfolio_showreel_wwise2.jpg"
+	            "url": "/wordpress/wp-content/uploads/2021/05/azk_portfolio_showreel_wwise2.jpg",
+	            "contentUrl": "/wordpress/wp-content/uploads/2021/05/azk_portfolio_showreel_wwise2.jpg"
 	        },
 	        {
 	            "@type": "WebPage",
@@ -113,12 +118,7 @@
 	                {
 	                    "@type": "ListItem",
 	                    "position": 1,
-	                    "item": {
-	                        "@type": "WebPage",
-	                        "@id": "/",
-	                        "url": "/",
-	                        "name": "Home"
-	                    }
+	                    "name": "Home"
 	                }
 	            ]
 	        }
