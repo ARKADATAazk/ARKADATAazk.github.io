@@ -12,13 +12,13 @@
 	<atom:link href="/tag/filters/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Portfolio</description>
-	<lastBuildDate>Sat, 24 Jul 2021 21:08:50 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Dec 2021 02:53:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Synth Reverse Engineering → Megata Kyojin Kuchiku</title>
 		<link>/2021/07/24/megata-kyojin-kuchiku/</link>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Zebra]]></category>
 		<guid isPermaLink="false">/?p=1621</guid>
 
-					<description><![CDATA[<p>This is how to be a big Sawano Chungus</p>
+					<description><![CDATA[<p>Reverse Engineering of Sawano Hiroyuki - Megata Kyojin Kuchiku's lead synth from Shingeki No Kyojin. </p>
 <p>The post <a rel="nofollow" href="/2021/07/24/megata-kyojin-kuchiku/">Synth Reverse Engineering → Megata Kyojin Kuchiku</a> appeared first on <a rel="nofollow" href="">ARKADATA</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div>
