@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Synth Reverse Engineering → Megata Kyojin Kuchiku</title>
 		<link>/2021/07/24/megata-kyojin-kuchiku/</link>
@@ -61,7 +61,7 @@
 <p>Next, I&#8217;m gonna use one of my synths to get as close as possible to the original sound. Zebra from u-He has a lot of good filtering possibilities along with a good legato system. It should be able to do the job, though results may vary slightly from the original due to how differents synths can sound. </p>
 <p>Anyway, the goal here isn&#8217;t to achieve a 100% copy. It&#8217;s to understand a craft; we are learning a recipe to make many variations of that kind of sound.</p>
 </div>
-<p><img src="https://i.imgur.com/WN9zUeL.png" alt=""></p>
+<p><img decoding="async" src="https://i.imgur.com/WN9zUeL.png" alt=""></p>
 <ul>
 <li>
 <h3>Filter KeyFollow</h3>
@@ -81,7 +81,7 @@
 <p>A simple mono saw wave with a single voice does the job for the OSC. The LP Filters will do the rest.</p>
 <p>What&#8217;s important is the glide and the filter&#8217;s motion. The thing with Megata&#8217;s synth is that it&#8217;s not always gliding/in legato. It&#8217;s humanized in a way, to give it some variation.</p>
 </div>
-<p><img src="https://i.imgur.com/dQXsYHA.png" alt=""></p>
+<p><img decoding="async" src="https://i.imgur.com/dQXsYHA.png" alt=""></p>
 <div>
 <h3>Legato</h3>
 <div>
