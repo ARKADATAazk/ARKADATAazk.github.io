@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Filters Archives - ARKADATA</title>
-	<atom:link href="/tag/filters/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/tag/filters/feed/?simply_static_page=10254" rel="self" type="application/rss+xml" />
+	<link>/tag/filters/</link>
 	<description>Portfolio</description>
 	<lastBuildDate>Sun, 12 Dec 2021 02:53:31 +0000</lastBuildDate>
 	<language>en-US</language>
