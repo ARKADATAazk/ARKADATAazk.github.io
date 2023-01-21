@@ -126,37 +126,6 @@
 		<lastmod>2023-01-20T23:02:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/reark-reaper-skin/reark-how-to-install/</loc>
-		<lastmod>2023-01-21T10:20:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-Reaper-Theme-Install-Options.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-Reaper-Theme-Install-ColorThemes.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-ThemeAdjusterSettings1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-ThemeAdjusterSettings2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-ThemeAdjusterSettings3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-ThemeAdjusterSettings4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-ReaperSettings3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-ReaperSettings2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-ReaperSettings1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/reark-reaper-skin/</loc>
 		<lastmod>2023-01-21T10:43:36+00:00</lastmod>
 		<image:image>
@@ -167,6 +136,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wordpress/wp-content/uploads/2023/01/AEDL2_BTM_02.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/reark-reaper-skin/reark-how-to-install/</loc>
+		<lastmod>2023-01-21T10:54:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-Reaper-Theme-Install-Options.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK-Reaper-Theme-Install-ColorThemes.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
