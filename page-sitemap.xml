@@ -136,55 +136,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/reark-reaper-skin/template/</loc>
-		<lastmod>2023-02-01T19:25:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_25.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_30.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_29.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_26.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_18.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_35.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_23.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Reaper_Theme_Pulover.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_33.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_21.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/reark-reaper-skin/</loc>
 		<lastmod>2023-02-01T21:31:14+00:00</lastmod>
 		<image:image>
@@ -246,6 +197,55 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wordpress/wp-content/uploads/2023/01/reARK_Reaper_Theme_HiDPI_Element_Screenshot_6.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/reark-reaper-skin/template/</loc>
+		<lastmod>2023-02-02T10:39:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_25.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_30.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_29.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_26.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_22.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_18.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_35.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_23.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Reaper_Theme_Pulover.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_33.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wordpress/wp-content/uploads/2023/02/reARK_Affinity_Designer_Template_Help_21.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
